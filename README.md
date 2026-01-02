@@ -6,5 +6,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Yash-Raj-2403/Leety/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Yash-Raj-2403/Leety/tree/master/0485-max-consecutive-ones) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Yash-Raj-2403/Leety/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
