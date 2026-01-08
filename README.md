@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Yash-Raj-2403/Leety/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/Yash-Raj-2403/Leety/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Yash-Raj-2403/Leety/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Yash-Raj-2403/Leety/tree/master/0704-binary-search) |
@@ -27,5 +28,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Yash-Raj-2403/Leety/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Yash-Raj-2403/Leety/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
