@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Yash-Raj-2403/Leety/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/Yash-Raj-2403/Leety/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Yash-Raj-2403/Leety/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Yash-Raj-2403/Leety/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Yash-Raj-2403/Leety/tree/master/0704-binary-search) |
@@ -23,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Yash-Raj-2403/Leety/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0268-missing-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Yash-Raj-2403/Leety/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Yash-Raj-2403/Leety/tree/master/0007-reverse-integer) |
+| [0268-missing-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/Yash-Raj-2403/Leety/tree/master/0633-sum-of-square-numbers) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -38,14 +41,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Yash-Raj-2403/Leety/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Yash-Raj-2403/Leety/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Yash-Raj-2403/Leety/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Yash-Raj-2403/Leety/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/2180-count-integers-with-even-digit-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
