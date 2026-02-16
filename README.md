@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0507-perfect-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/Yash-Raj-2403/Leety/tree/master/0633-sum-of-square-numbers) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2235-add-two-integers](https://github.com/Yash-Raj-2403/Leety/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Yash-Raj-2403/Leety/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Yash-Raj-2403/Leety/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Yash-Raj-2403/Leety/tree/master/2894-divisible-and-non-divisible-sums-difference) |
