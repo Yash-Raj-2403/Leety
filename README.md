@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0896-monotonic-array](https://github.com/Yash-Raj-2403/Leety/tree/master/0896-monotonic-array) |
 | [1929-concatenation-of-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1929-concatenation-of-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Yash-Raj-2403/Leety/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3467-transform-array-by-parity](https://github.com/Yash-Raj-2403/Leety/tree/master/3467-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Yash-Raj-2403/Leety/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Yash-Raj-2403/Leety/tree/master/0389-find-the-difference) |
+| [3467-transform-array-by-parity](https://github.com/Yash-Raj-2403/Leety/tree/master/3467-transform-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Yash-Raj-2403/Leety/tree/master/0258-add-digits) |
+## Counting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/Yash-Raj-2403/Leety/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
