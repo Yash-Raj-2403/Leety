@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/Yash-Raj-2403/Leety/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/Yash-Raj-2403/Leety/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/Yash-Raj-2403/Leety/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/Yash-Raj-2403/Leety/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Yash-Raj-2403/Leety/tree/master/0896-monotonic-array) |
 | [1512-number-of-good-pairs](https://github.com/Yash-Raj-2403/Leety/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1929-concatenation-of-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/Yash-Raj-2403/Leety/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/Yash-Raj-2403/Leety/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/Yash-Raj-2403/Leety/tree/master/1512-number-of-good-pairs) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Yash-Raj-2403/Leety/tree/master/2235-add-two-integers) |
@@ -118,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Yash-Raj-2403/Leety/tree/master/1512-number-of-good-pairs) |
 | [3467-transform-array-by-parity](https://github.com/Yash-Raj-2403/Leety/tree/master/3467-transform-array-by-parity) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Yash-Raj-2403/Leety/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Yash-Raj-2403/Leety/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
