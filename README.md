@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0633-sum-of-square-numbers](https://github.com/Yash-Raj-2403/Leety/tree/master/0633-sum-of-square-numbers) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Yash-Raj-2403/Leety/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/Yash-Raj-2403/Leety/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Yash-Raj-2403/Leety/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Yash-Raj-2403/Leety/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Yash-Raj-2403/Leety/tree/master/2652-sum-multiples) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Yash-Raj-2403/Leety/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/Yash-Raj-2403/Leety/tree/master/2413-smallest-even-multiple) |
 ## Counting
 |  |
 | ------- |
