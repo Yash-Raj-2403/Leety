@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2235-add-two-integers](https://github.com/Yash-Raj-2403/Leety/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Yash-Raj-2403/Leety/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Yash-Raj-2403/Leety/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2652-sum-multiples](https://github.com/Yash-Raj-2403/Leety/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Yash-Raj-2403/Leety/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Yash-Raj-2403/Leety/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Yash-Raj-2403/Leety/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
