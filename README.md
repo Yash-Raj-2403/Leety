@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Yash-Raj-2403/Leety/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/Yash-Raj-2403/Leety/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Yash-Raj-2403/Leety/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3701-compute-alternating-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/3701-compute-alternating-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1929-concatenation-of-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3498-reverse-degree-of-a-string](https://github.com/Yash-Raj-2403/Leety/tree/master/3498-reverse-degree-of-a-string) |
+| [3701-compute-alternating-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/3701-compute-alternating-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
