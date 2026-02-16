@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/Yash-Raj-2403/Leety/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3498-reverse-degree-of-a-string](https://github.com/Yash-Raj-2403/Leety/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/Yash-Raj-2403/Leety/tree/master/0389-find-the-difference) |
 | [1108-defanging-an-ip-address](https://github.com/Yash-Raj-2403/Leety/tree/master/1108-defanging-an-ip-address) |
 | [3110-score-of-a-string](https://github.com/Yash-Raj-2403/Leety/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Yash-Raj-2403/Leety/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
 | ------- |
