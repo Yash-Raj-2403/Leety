@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Yash-Raj-2403/Leety/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Yash-Raj-2403/Leety/tree/master/0035-search-insert-position) |
+| [0189-rotate-array](https://github.com/Yash-Raj-2403/Leety/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Yash-Raj-2403/Leety/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Yash-Raj-2403/Leety/tree/master/0283-move-zeroes) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0027-remove-element](https://github.com/Yash-Raj-2403/Leety/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yash-Raj-2403/Leety/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0189-rotate-array](https://github.com/Yash-Raj-2403/Leety/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Yash-Raj-2403/Leety/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Yash-Raj-2403/Leety/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/Yash-Raj-2403/Leety/tree/master/0633-sum-of-square-numbers) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/Yash-Raj-2403/Leety/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Yash-Raj-2403/Leety/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Yash-Raj-2403/Leety/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Yash-Raj-2403/Leety/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Yash-Raj-2403/Leety/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0263-ugly-number) |
