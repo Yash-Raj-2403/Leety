@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1672-richest-customer-wealth](https://github.com/Yash-Raj-2403/Leety/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Yash-Raj-2403/Leety/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1929-concatenation-of-array) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yash-Raj-2403/Leety/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Yash-Raj-2403/Leety/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Yash-Raj-2403/Leety/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
