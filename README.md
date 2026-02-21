@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Yash-Raj-2403/Leety/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Yash-Raj-2403/Leety/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Yash-Raj-2403/Leety/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yash-Raj-2403/Leety/tree/master/0035-search-insert-position) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Yash-Raj-2403/Leety/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Yash-Raj-2403/Leety/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yash-Raj-2403/Leety/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Yash-Raj-2403/Leety/tree/master/0069-sqrtx) |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Yash-Raj-2403/Leety/tree/master/1051-height-checker) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Yash-Raj-2403/Leety/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
