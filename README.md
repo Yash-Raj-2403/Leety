@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Yash-Raj-2403/Leety/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Yash-Raj-2403/Leety/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Yash-Raj-2403/Leety/tree/master/0389-find-the-difference) |
@@ -176,4 +177,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yash-Raj-2403/Leety/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/Yash-Raj-2403/Leety/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
