@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/Yash-Raj-2403/Leety/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Yash-Raj-2403/Leety/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Yash-Raj-2403/Leety/tree/master/0896-monotonic-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Yash-Raj-2403/Leety/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Yash-Raj-2403/Leety/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Yash-Raj-2403/Leety/tree/master/1512-number-of-good-pairs) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/Yash-Raj-2403/Leety/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Yash-Raj-2403/Leety/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/Yash-Raj-2403/Leety/tree/master/0633-sum-of-square-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/Yash-Raj-2403/Leety/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yash-Raj-2403/Leety/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Yash-Raj-2403/Leety/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Yash-Raj-2403/Leety/tree/master/0389-find-the-difference) |
+| [0977-squares-of-a-sorted-array](https://github.com/Yash-Raj-2403/Leety/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Yash-Raj-2403/Leety/tree/master/1051-height-checker) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yash-Raj-2403/Leety/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/Yash-Raj-2403/Leety/tree/master/3467-transform-array-by-parity) |
