@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0263-ugly-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Yash-Raj-2403/Leety/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Yash-Raj-2403/Leety/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/Yash-Raj-2403/Leety/tree/master/1512-number-of-good-pairs) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0050-powx-n](https://github.com/Yash-Raj-2403/Leety/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Yash-Raj-2403/Leety/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Yash-Raj-2403/Leety/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yash-Raj-2403/Leety/tree/master/0004-median-of-two-sorted-arrays) |
 | [0191-number-of-1-bits](https://github.com/Yash-Raj-2403/Leety/tree/master/0191-number-of-1-bits) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
