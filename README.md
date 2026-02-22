@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Yash-Raj-2403/Leety/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Yash-Raj-2403/Leety/tree/master/0693-binary-number-with-alternating-bits) |
+| [0868-binary-gap](https://github.com/Yash-Raj-2403/Leety/tree/master/0868-binary-gap) |
 ## Recursion
 |  |
 | ------- |
