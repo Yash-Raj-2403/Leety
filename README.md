@@ -206,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yash-Raj-2403/Leety/tree/master/0020-valid-parentheses) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/Yash-Raj-2403/Leety/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/Yash-Raj-2403/Leety/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
