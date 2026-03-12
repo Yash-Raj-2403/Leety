@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1920-build-array-from-permutation](https://github.com/Yash-Raj-2403/Leety/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1929-concatenation-of-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Yash-Raj-2403/Leety/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yash-Raj-2403/Leety/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Yash-Raj-2403/Leety/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Yash-Raj-2403/Leety/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -215,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2236-root-equals-sum-of-children](https://github.com/Yash-Raj-2403/Leety/tree/master/2236-root-equals-sum-of-children) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Yash-Raj-2403/Leety/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
