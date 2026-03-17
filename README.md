@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3467-transform-array-by-parity](https://github.com/Yash-Raj-2403/Leety/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Yash-Raj-2403/Leety/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/3701-compute-alternating-sum) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Yash-Raj-2403/Leety/tree/master/3745-maximize-expression-of-three-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-Raj-2403/Leety/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yash-Raj-2403/Leety/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/Yash-Raj-2403/Leety/tree/master/3467-transform-array-by-parity) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Yash-Raj-2403/Leety/tree/master/3745-maximize-expression-of-three-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -232,8 +234,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yash-Raj-2403/Leety/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Yash-Raj-2403/Leety/tree/master/3745-maximize-expression-of-three-elements) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Yash-Raj-2403/Leety/tree/master/0605-can-place-flowers) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Yash-Raj-2403/Leety/tree/master/3745-maximize-expression-of-three-elements) |
 <!---LeetCode Topics End-->
