@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2553-separate-the-digits-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/2553-separate-the-digits-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Yash-Raj-2403/Leety/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/3701-compute-alternating-sum) |
+| [3813-vowel-consonant-score](https://github.com/Yash-Raj-2403/Leety/tree/master/3813-vowel-consonant-score) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3110-score-of-a-string](https://github.com/Yash-Raj-2403/Leety/tree/master/3110-score-of-a-string) |
 | [3340-check-balanced-string](https://github.com/Yash-Raj-2403/Leety/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Yash-Raj-2403/Leety/tree/master/3498-reverse-degree-of-a-string) |
+| [3813-vowel-consonant-score](https://github.com/Yash-Raj-2403/Leety/tree/master/3813-vowel-consonant-score) |
 ## String Matching
 |  |
 | ------- |
