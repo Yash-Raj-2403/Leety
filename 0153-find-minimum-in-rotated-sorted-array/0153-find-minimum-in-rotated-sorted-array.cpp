@@ -14,7 +14,7 @@ public:
             }
             else
             {
-                mina = min(mina,nums[right]);
+                mina = min(mina,nums[mid]);
                 right = mid-1;
             }
         }
