@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0728-self-dividing-numbers](https://github.com/Yash-Raj-2403/Leety/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/Yash-Raj-2403/Leety/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Yash-Raj-2403/Leety/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Yash-Raj-2403/Leety/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/Yash-Raj-2403/Leety/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/Yash-Raj-2403/Leety/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Yash-Raj-2403/Leety/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/Yash-Raj-2403/Leety/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Yash-Raj-2403/Leety/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/Yash-Raj-2403/Leety/tree/master/0868-binary-gap) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Yash-Raj-2403/Leety/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
