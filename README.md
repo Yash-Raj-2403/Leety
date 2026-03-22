@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Yash-Raj-2403/Leety/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Yash-Raj-2403/Leety/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/Yash-Raj-2403/Leety/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Yash-Raj-2403/Leety/tree/master/0605-can-place-flowers) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Yash-Raj-2403/Leety/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Yash-Raj-2403/Leety/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0575-distribute-candies](https://github.com/Yash-Raj-2403/Leety/tree/master/0575-distribute-candies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-Raj-2403/Leety/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Yash-Raj-2403/Leety/tree/master/1512-number-of-good-pairs) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Yash-Raj-2403/Leety/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yash-Raj-2403/Leety/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Yash-Raj-2403/Leety/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-Raj-2403/Leety/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
