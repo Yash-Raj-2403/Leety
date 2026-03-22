@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1390-four-divisors](https://github.com/Yash-Raj-2403/Leety/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Yash-Raj-2403/Leety/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Yash-Raj-2403/Leety/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Yash-Raj-2403/Leety/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Yash-Raj-2403/Leety/tree/master/1672-richest-customer-wealth) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1122-relative-sort-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-Raj-2403/Leety/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Yash-Raj-2403/Leety/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/Yash-Raj-2403/Leety/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Yash-Raj-2403/Leety/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Yash-Raj-2403/Leety/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1051-height-checker](https://github.com/Yash-Raj-2403/Leety/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-Raj-2403/Leety/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Yash-Raj-2403/Leety/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2785-sort-vowels-in-a-string](https://github.com/Yash-Raj-2403/Leety/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yash-Raj-2403/Leety/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/Yash-Raj-2403/Leety/tree/master/3467-transform-array-by-parity) |
