@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1051-height-checker](https://github.com/Yash-Raj-2403/Leety/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-Raj-2403/Leety/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/Yash-Raj-2403/Leety/tree/master/1390-four-divisors) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Yash-Raj-2403/Leety/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Yash-Raj-2403/Leety/tree/master/1512-number-of-good-pairs) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/Yash-Raj-2403/Leety/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/Yash-Raj-2403/Leety/tree/master/0575-distribute-candies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-Raj-2403/Leety/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Yash-Raj-2403/Leety/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Yash-Raj-2403/Leety/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Yash-Raj-2403/Leety/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Yash-Raj-2403/Leety/tree/master/0451-sort-characters-by-frequency) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Yash-Raj-2403/Leety/tree/master/1512-number-of-good-pairs) |
 | [3467-transform-array-by-parity](https://github.com/Yash-Raj-2403/Leety/tree/master/3467-transform-array-by-parity) |
 ## Dynamic Programming
