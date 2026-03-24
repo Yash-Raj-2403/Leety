@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0263-ugly-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Yash-Raj-2403/Leety/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Yash-Raj-2403/Leety/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Yash-Raj-2403/Leety/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0509-fibonacci-number) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0191-number-of-1-bits](https://github.com/Yash-Raj-2403/Leety/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Yash-Raj-2403/Leety/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Yash-Raj-2403/Leety/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Yash-Raj-2403/Leety/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Yash-Raj-2403/Leety/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Yash-Raj-2403/Leety/tree/master/0693-binary-number-with-alternating-bits) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/Yash-Raj-2403/Leety/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Yash-Raj-2403/Leety/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Yash-Raj-2403/Leety/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Yash-Raj-2403/Leety/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0509-fibonacci-number) |
 ## String
 |  |
