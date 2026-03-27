@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2614-prime-in-diagonal](https://github.com/Yash-Raj-2403/Leety/tree/master/2614-prime-in-diagonal) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yash-Raj-2403/Leety/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yash-Raj-2403/Leety/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2942-find-words-containing-character](https://github.com/Yash-Raj-2403/Leety/tree/master/2942-find-words-containing-character) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Yash-Raj-2403/Leety/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Yash-Raj-2403/Leety/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Yash-Raj-2403/Leety/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Yash-Raj-2403/Leety/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Yash-Raj-2403/Leety/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2785-sort-vowels-in-a-string](https://github.com/Yash-Raj-2403/Leety/tree/master/2785-sort-vowels-in-a-string) |
+| [2942-find-words-containing-character](https://github.com/Yash-Raj-2403/Leety/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Yash-Raj-2403/Leety/tree/master/3110-score-of-a-string) |
 | [3340-check-balanced-string](https://github.com/Yash-Raj-2403/Leety/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Yash-Raj-2403/Leety/tree/master/3498-reverse-degree-of-a-string) |
