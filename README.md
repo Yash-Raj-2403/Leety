@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1672-richest-customer-wealth](https://github.com/Yash-Raj-2403/Leety/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Yash-Raj-2403/Leety/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Yash-Raj-2403/Leety/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yash-Raj-2403/Leety/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/2553-separate-the-digits-in-an-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1688-count-of-matches-in-tournament](https://github.com/Yash-Raj-2403/Leety/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Yash-Raj-2403/Leety/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Yash-Raj-2403/Leety/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yash-Raj-2403/Leety/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/2553-separate-the-digits-in-an-array) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1108-defanging-an-ip-address](https://github.com/Yash-Raj-2403/Leety/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Yash-Raj-2403/Leety/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Yash-Raj-2403/Leety/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Yash-Raj-2403/Leety/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2785-sort-vowels-in-a-string](https://github.com/Yash-Raj-2403/Leety/tree/master/2785-sort-vowels-in-a-string) |
 | [3110-score-of-a-string](https://github.com/Yash-Raj-2403/Leety/tree/master/3110-score-of-a-string) |
 | [3340-check-balanced-string](https://github.com/Yash-Raj-2403/Leety/tree/master/3340-check-balanced-string) |
