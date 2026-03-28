@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yash-Raj-2403/Leety/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yash-Raj-2403/Leety/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Yash-Raj-2403/Leety/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Yash-Raj-2403/Leety/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Yash-Raj-2403/Leety/tree/master/0451-sort-characters-by-frequency) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Yash-Raj-2403/Leety/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yash-Raj-2403/Leety/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/Yash-Raj-2403/Leety/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Yash-Raj-2403/Leety/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Yash-Raj-2403/Leety/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Yash-Raj-2403/Leety/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Yash-Raj-2403/Leety/tree/master/0451-sort-characters-by-frequency) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Yash-Raj-2403/Leety/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Yash-Raj-2403/Leety/tree/master/0451-sort-characters-by-frequency) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Yash-Raj-2403/Leety/tree/master/1512-number-of-good-pairs) |
@@ -330,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Yash-Raj-2403/Leety/tree/master/0451-sort-characters-by-frequency) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Yash-Raj-2403/Leety/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
