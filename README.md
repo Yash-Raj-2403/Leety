@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/Yash-Raj-2403/Leety/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/Yash-Raj-2403/Leety/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Yash-Raj-2403/Leety/tree/master/0605-can-place-flowers) |
+| [0682-baseball-game](https://github.com/Yash-Raj-2403/Leety/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Yash-Raj-2403/Leety/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Yash-Raj-2403/Leety/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/Yash-Raj-2403/Leety/tree/master/0877-stone-game) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/Yash-Raj-2403/Leety/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Yash-Raj-2403/Leety/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Yash-Raj-2403/Leety/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/Yash-Raj-2403/Leety/tree/master/0682-baseball-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/Yash-Raj-2403/Leety/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Yash-Raj-2403/Leety/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1929-concatenation-of-array) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yash-Raj-2403/Leety/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Yash-Raj-2403/Leety/tree/master/0682-baseball-game) |
 | [2000-reverse-prefix-of-word](https://github.com/Yash-Raj-2403/Leety/tree/master/2000-reverse-prefix-of-word) |
 ## Tree
 |  |
