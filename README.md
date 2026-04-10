@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0796-rotate-string](https://github.com/Yash-Raj-2403/Leety/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Yash-Raj-2403/Leety/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Yash-Raj-2403/Leety/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1678-goal-parser-interpretation](https://github.com/Yash-Raj-2403/Leety/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Yash-Raj-2403/Leety/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/Yash-Raj-2403/Leety/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Yash-Raj-2403/Leety/tree/master/2011-final-value-of-variable-after-performing-operations) |
