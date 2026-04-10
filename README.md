@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3467-transform-array-by-parity](https://github.com/Yash-Raj-2403/Leety/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Yash-Raj-2403/Leety/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yash-Raj-2403/Leety/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3668-restore-finishing-order](https://github.com/Yash-Raj-2403/Leety/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/3701-compute-alternating-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Yash-Raj-2403/Leety/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Yash-Raj-2403/Leety/tree/master/3745-maximize-expression-of-three-elements) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yash-Raj-2403/Leety/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Yash-Raj-2403/Leety/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Yash-Raj-2403/Leety/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3668-restore-finishing-order](https://github.com/Yash-Raj-2403/Leety/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
 | ------- |
