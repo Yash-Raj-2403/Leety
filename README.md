@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Yash-Raj-2403/Leety/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Yash-Raj-2403/Leety/tree/master/3745-maximize-expression-of-three-elements) |
 | [3861-minimum-capacity-box](https://github.com/Yash-Raj-2403/Leety/tree/master/3861-minimum-capacity-box) |
+| [3925-concatenate-array-with-reverse](https://github.com/Yash-Raj-2403/Leety/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3498-reverse-degree-of-a-string](https://github.com/Yash-Raj-2403/Leety/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/3701-compute-alternating-sum) |
 | [3813-vowel-consonant-score](https://github.com/Yash-Raj-2403/Leety/tree/master/3813-vowel-consonant-score) |
+| [3925-concatenate-array-with-reverse](https://github.com/Yash-Raj-2403/Leety/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
 |  |
 | ------- |
