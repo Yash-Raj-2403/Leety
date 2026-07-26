@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1480-running-sum-of-1d-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Yash-Raj-2403/Leety/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/Yash-Raj-2403/Leety/tree/master/1512-number-of-good-pairs) |
+| [1539-kth-missing-positive-number](https://github.com/Yash-Raj-2403/Leety/tree/master/1539-kth-missing-positive-number) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Yash-Raj-2403/Leety/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Yash-Raj-2403/Leety/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Yash-Raj-2403/Leety/tree/master/1672-richest-customer-wealth) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yash-Raj-2403/Leety/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Yash-Raj-2403/Leety/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Yash-Raj-2403/Leety/tree/master/0704-binary-search) |
+| [1539-kth-missing-positive-number](https://github.com/Yash-Raj-2403/Leety/tree/master/1539-kth-missing-positive-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yash-Raj-2403/Leety/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
