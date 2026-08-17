@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/Yash-Raj-2403/Leety/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/Yash-Raj-2403/Leety/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Yash-Raj-2403/Leety/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Yash-Raj-2403/Leety/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Yash-Raj-2403/Leety/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Yash-Raj-2403/Leety/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Yash-Raj-2403/Leety/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -402,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Yash-Raj-2403/Leety/tree/master/0463-island-perimeter) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Yash-Raj-2403/Leety/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
