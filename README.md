@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yash-Raj-2403/Leety/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yash-Raj-2403/Leety/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Yash-Raj-2403/Leety/tree/master/2942-find-words-containing-character) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Yash-Raj-2403/Leety/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Yash-Raj-2403/Leety/tree/master/3074-apple-redistribution-into-boxes) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Yash-Raj-2403/Leety/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Yash-Raj-2403/Leety/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yash-Raj-2403/Leety/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/2553-separate-the-digits-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Yash-Raj-2403/Leety/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Yash-Raj-2403/Leety/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/3701-compute-alternating-sum) |
 | [3813-vowel-consonant-score](https://github.com/Yash-Raj-2403/Leety/tree/master/3813-vowel-consonant-score) |
