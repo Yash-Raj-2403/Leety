@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0868-binary-gap](https://github.com/Yash-Raj-2403/Leety/tree/master/0868-binary-gap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Yash-Raj-2403/Leety/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2032-two-out-of-three](https://github.com/Yash-Raj-2403/Leety/tree/master/2032-two-out-of-three) |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/Yash-Raj-2403/Leety/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Recursion
 |  |
 | ------- |
