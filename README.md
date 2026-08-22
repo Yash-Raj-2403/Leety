@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yash-Raj-2403/Leety/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Yash-Raj-2403/Leety/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Yash-Raj-2403/Leety/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Yash-Raj-2403/Leety/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yash-Raj-2403/Leety/tree/master/0035-search-insert-position) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Yash-Raj-2403/Leety/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Yash-Raj-2403/Leety/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yash-Raj-2403/Leety/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/Yash-Raj-2403/Leety/tree/master/0344-reverse-string) |
@@ -416,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Yash-Raj-2403/Leety/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Yash-Raj-2403/Leety/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Yash-Raj-2403/Leety/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
