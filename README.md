@@ -383,10 +383,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Yash-Raj-2403/Leety/tree/master/0100-same-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Yash-Raj-2403/Leety/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Yash-Raj-2403/Leety/tree/master/0100-same-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Yash-Raj-2403/Leety/tree/master/2236-root-equals-sum-of-children) |
 ## Enumeration
 |  |
@@ -419,10 +421,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Yash-Raj-2403/Leety/tree/master/0100-same-tree) |
 | [0463-island-perimeter](https://github.com/Yash-Raj-2403/Leety/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Yash-Raj-2403/Leety/tree/master/0100-same-tree) |
 | [0463-island-perimeter](https://github.com/Yash-Raj-2403/Leety/tree/master/0463-island-perimeter) |
 ## Sliding Window
 |  |
