@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Yash-Raj-2403/Leety/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/Yash-Raj-2403/Leety/tree/master/2032-two-out-of-three) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yash-Raj-2403/Leety/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yash-Raj-2403/Leety/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Yash-Raj-2403/Leety/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Yash-Raj-2403/Leety/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Yash-Raj-2403/Leety/tree/master/3668-restore-finishing-order) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2278-percentage-of-letter-in-string](https://github.com/Yash-Raj-2403/Leety/tree/master/2278-percentage-of-letter-in-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/Yash-Raj-2403/Leety/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/Yash-Raj-2403/Leety/tree/master/2942-find-words-containing-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yash-Raj-2403/Leety/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/Yash-Raj-2403/Leety/tree/master/3110-score-of-a-string) |
 | [3340-check-balanced-string](https://github.com/Yash-Raj-2403/Leety/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Yash-Raj-2403/Leety/tree/master/3498-reverse-degree-of-a-string) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Yash-Raj-2403/Leety/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Yash-Raj-2403/Leety/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Yash-Raj-2403/Leety/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yash-Raj-2403/Leety/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Trie
 |  |
 | ------- |
