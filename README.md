@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yash-Raj-2403/Leety/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yash-Raj-2403/Leety/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2540-minimum-common-value](https://github.com/Yash-Raj-2403/Leety/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/2553-separate-the-digits-in-an-array) |
 | [2614-prime-in-diagonal](https://github.com/Yash-Raj-2403/Leety/tree/master/2614-prime-in-diagonal) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yash-Raj-2403/Leety/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0977-squares-of-a-sorted-array](https://github.com/Yash-Raj-2403/Leety/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Yash-Raj-2403/Leety/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yash-Raj-2403/Leety/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/Yash-Raj-2403/Leety/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yash-Raj-2403/Leety/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Yash-Raj-2403/Leety/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/Yash-Raj-2403/Leety/tree/master/2032-two-out-of-three) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yash-Raj-2403/Leety/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2540-minimum-common-value](https://github.com/Yash-Raj-2403/Leety/tree/master/2540-minimum-common-value) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yash-Raj-2403/Leety/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Yash-Raj-2403/Leety/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Yash-Raj-2403/Leety/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/Yash-Raj-2403/Leety/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/Yash-Raj-2403/Leety/tree/master/1539-kth-missing-positive-number) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Yash-Raj-2403/Leety/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2540-minimum-common-value](https://github.com/Yash-Raj-2403/Leety/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yash-Raj-2403/Leety/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
