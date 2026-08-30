@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Yash-Raj-2403/Leety/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/Yash-Raj-2403/Leety/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Yash-Raj-2403/Leety/tree/master/0896-monotonic-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yash-Raj-2403/Leety/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-Raj-2403/Leety/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/Yash-Raj-2403/Leety/tree/master/1051-height-checker) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Yash-Raj-2403/Leety/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/Yash-Raj-2403/Leety/tree/master/0575-distribute-candies) |
+| [0930-binary-subarrays-with-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/0930-binary-subarrays-with-sum) |
 | [1122-relative-sort-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-Raj-2403/Leety/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Yash-Raj-2403/Leety/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-Raj-2403/Leety/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1480-running-sum-of-1d-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Yash-Raj-2403/Leety/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/Yash-Raj-2403/Leety/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Yash-Raj-2403/Leety/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Yash-Raj-2403/Leety/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-Raj-2403/Leety/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Yash-Raj-2403/Leety/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Yash-Raj-2403/Leety/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
