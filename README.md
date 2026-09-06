@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3232-find-if-digit-game-can-be-won](https://github.com/Yash-Raj-2403/Leety/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Yash-Raj-2403/Leety/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Yash-Raj-2403/Leety/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Yash-Raj-2403/Leety/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/Yash-Raj-2403/Leety/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yash-Raj-2403/Leety/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yash-Raj-2403/Leety/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Yash-Raj-2403/Leety/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Yash-Raj-2403/Leety/tree/master/3745-maximize-expression-of-three-elements) |
 ## Greedy
 |  |
