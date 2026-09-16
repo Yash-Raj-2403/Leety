@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/Yash-Raj-2403/Leety/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Yash-Raj-2403/Leety/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Yash-Raj-2403/Leety/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/Yash-Raj-2403/Leety/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Yash-Raj-2403/Leety/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Yash-Raj-2403/Leety/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Yash-Raj-2403/Leety/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/Yash-Raj-2403/Leety/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Yash-Raj-2403/Leety/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Yash-Raj-2403/Leety/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yash-Raj-2403/Leety/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Yash-Raj-2403/Leety/tree/master/0877-stone-game) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Yash-Raj-2403/Leety/tree/master/0036-valid-sudoku) |
+| [0063-unique-paths-ii](https://github.com/Yash-Raj-2403/Leety/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Yash-Raj-2403/Leety/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Yash-Raj-2403/Leety/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/Yash-Raj-2403/Leety/tree/master/0463-island-perimeter) |
