@@ -24,15 +24,26 @@ class Solution {
     public boolean findTarget(TreeNode root, int k) {
         List<Integer> lst = new ArrayList<>();
         inorder(root,lst);
-        int l=0,r=lst.size()-1;
 
-        while(l<r)
+        Set<Integer> st = new HashSet<>();
+        for(int x:lst)
         {
-            int sum = lst.get(l)+lst.get(r);
-            if(sum == k) return true;
-            if(sum>k) r--;
-            if(sum<k) l++;
+            if(st.contains(k-x))
+            {
+                return true;
+            }
+            st.add(x);
         }
         return false;
+        // int l=0,r=lst.size()-1;
+
+        // while(l<r)
+        // {
+        //     int sum = lst.get(l)+lst.get(r);
+        //     if(sum == k) return true;
+        //     if(sum>k) r--;
+        //     if(sum<k) l++;
+        // }
+        // return false;
     }
 }
