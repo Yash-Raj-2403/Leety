@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2614-prime-in-diagonal](https://github.com/Yash-Raj-2403/Leety/tree/master/2614-prime-in-diagonal) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yash-Raj-2403/Leety/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Yash-Raj-2403/Leety/tree/master/2784-check-if-array-is-good) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yash-Raj-2403/Leety/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Yash-Raj-2403/Leety/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yash-Raj-2403/Leety/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yash-Raj-2403/Leety/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Yash-Raj-2403/Leety/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Yash-Raj-2403/Leety/tree/master/2784-check-if-array-is-good) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yash-Raj-2403/Leety/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Yash-Raj-2403/Leety/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Yash-Raj-2403/Leety/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Yash-Raj-2403/Leety/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Yash-Raj-2403/Leety/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Yash-Raj-2403/Leety/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yash-Raj-2403/Leety/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Trie
 |  |
