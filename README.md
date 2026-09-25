@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/Yash-Raj-2403/Leety/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Yash-Raj-2403/Leety/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/Yash-Raj-2403/Leety/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yash-Raj-2403/Leety/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yash-Raj-2403/Leety/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Yash-Raj-2403/Leety/tree/master/0169-majority-element) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/Yash-Raj-2403/Leety/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Yash-Raj-2403/Leety/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yash-Raj-2403/Leety/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Yash-Raj-2403/Leety/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Yash-Raj-2403/Leety/tree/master/0877-stone-game) |
 ## Game Theory
