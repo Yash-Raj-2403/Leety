@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/Yash-Raj-2403/Leety/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Yash-Raj-2403/Leety/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yash-Raj-2403/Leety/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Yash-Raj-2403/Leety/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Yash-Raj-2403/Leety/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Yash-Raj-2403/Leety/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Yash-Raj-2403/Leety/tree/master/0938-range-sum-of-bst) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/Yash-Raj-2403/Leety/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Yash-Raj-2403/Leety/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yash-Raj-2403/Leety/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Yash-Raj-2403/Leety/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Yash-Raj-2403/Leety/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Yash-Raj-2403/Leety/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Yash-Raj-2403/Leety/tree/master/0938-range-sum-of-bst) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Yash-Raj-2403/Leety/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0463-island-perimeter](https://github.com/Yash-Raj-2403/Leety/tree/master/0463-island-perimeter) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yash-Raj-2403/Leety/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Yash-Raj-2403/Leety/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Yash-Raj-2403/Leety/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Yash-Raj-2403/Leety/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
