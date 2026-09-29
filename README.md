@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Yash-Raj-2403/Leety/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yash-Raj-2403/Leety/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yash-Raj-2403/Leety/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/Yash-Raj-2403/Leety/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yash-Raj-2403/Leety/tree/master/0349-intersection-of-two-arrays) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Yash-Raj-2403/Leety/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Yash-Raj-2403/Leety/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Yash-Raj-2403/Leety/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Yash-Raj-2403/Leety/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Yash-Raj-2403/Leety/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0268-missing-number) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Yash-Raj-2403/Leety/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yash-Raj-2403/Leety/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yash-Raj-2403/Leety/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Yash-Raj-2403/Leety/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Yash-Raj-2403/Leety/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Yash-Raj-2403/Leety/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Yash-Raj-2403/Leety/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Yash-Raj-2403/Leety/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yash-Raj-2403/Leety/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yash-Raj-2403/Leety/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Yash-Raj-2403/Leety/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Yash-Raj-2403/Leety/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Yash-Raj-2403/Leety/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yash-Raj-2403/Leety/tree/master/0653-two-sum-iv-input-is-a-bst) |
