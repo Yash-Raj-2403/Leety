@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1248-count-number-of-nice-subarrays](https://github.com/Yash-Raj-2403/Leety/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Yash-Raj-2403/Leety/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Yash-Raj-2403/Leety/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1331-rank-transform-of-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Yash-Raj-2403/Leety/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-Raj-2403/Leety/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/Yash-Raj-2403/Leety/tree/master/1390-four-divisors) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0992-subarrays-with-k-different-integers](https://github.com/Yash-Raj-2403/Leety/tree/master/0992-subarrays-with-k-different-integers) |
 | [1122-relative-sort-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yash-Raj-2403/Leety/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yash-Raj-2403/Leety/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-Raj-2403/Leety/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1051-height-checker](https://github.com/Yash-Raj-2403/Leety/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1122-relative-sort-array) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Yash-Raj-2403/Leety/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1331-rank-transform-of-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-Raj-2403/Leety/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Yash-Raj-2403/Leety/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Yash-Raj-2403/Leety/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
