@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yash-Raj-2403/Leety/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Yash-Raj-2403/Leety/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Yash-Raj-2403/Leety/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Yash-Raj-2403/Leety/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Yash-Raj-2403/Leety/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Yash-Raj-2403/Leety/tree/master/0219-contains-duplicate-ii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/Yash-Raj-2403/Leety/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Yash-Raj-2403/Leety/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Yash-Raj-2403/Leety/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Yash-Raj-2403/Leety/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Yash-Raj-2403/Leety/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Yash-Raj-2403/Leety/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0263-ugly-number) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Yash-Raj-2403/Leety/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Yash-Raj-2403/Leety/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/Yash-Raj-2403/Leety/tree/master/2413-smallest-even-multiple) |
 | [2614-prime-in-diagonal](https://github.com/Yash-Raj-2403/Leety/tree/master/2614-prime-in-diagonal) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Yash-Raj-2403/Leety/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yash-Raj-2403/Leety/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yash-Raj-2403/Leety/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Yash-Raj-2403/Leety/tree/master/3745-maximize-expression-of-three-elements) |
@@ -642,4 +646,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Yash-Raj-2403/Leety/tree/master/0229-majority-element-ii) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Yash-Raj-2403/Leety/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Yash-Raj-2403/Leety/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Yash-Raj-2403/Leety/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
