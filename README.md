@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Yash-Raj-2403/Leety/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Yash-Raj-2403/Leety/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Yash-Raj-2403/Leety/tree/master/3875-construct-uniform-parity-array-i) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Yash-Raj-2403/Leety/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Binary Search
 |  |
 | ------- |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/Yash-Raj-2403/Leety/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/Yash-Raj-2403/Leety/tree/master/2413-smallest-even-multiple) |
 | [2614-prime-in-diagonal](https://github.com/Yash-Raj-2403/Leety/tree/master/2614-prime-in-diagonal) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Yash-Raj-2403/Leety/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Counting
 |  |
 | ------- |
