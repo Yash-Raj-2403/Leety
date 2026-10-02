@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/Yash-Raj-2403/Leety/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Yash-Raj-2403/Leety/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Yash-Raj-2403/Leety/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Yash-Raj-2403/Leety/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Yash-Raj-2403/Leety/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/Yash-Raj-2403/Leety/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Yash-Raj-2403/Leety/tree/master/0896-monotonic-array) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Yash-Raj-2403/Leety/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Yash-Raj-2403/Leety/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-Raj-2403/Leety/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yash-Raj-2403/Leety/tree/master/1248-count-number-of-nice-subarrays) |
