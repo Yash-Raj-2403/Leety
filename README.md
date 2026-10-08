@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2540-minimum-common-value](https://github.com/Yash-Raj-2403/Leety/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/2553-separate-the-digits-in-an-array) |
 | [2614-prime-in-diagonal](https://github.com/Yash-Raj-2403/Leety/tree/master/2614-prime-in-diagonal) |
+| [2706-buy-two-chocolates](https://github.com/Yash-Raj-2403/Leety/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yash-Raj-2403/Leety/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Yash-Raj-2403/Leety/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Yash-Raj-2403/Leety/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Yash-Raj-2403/Leety/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Yash-Raj-2403/Leety/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2706-buy-two-chocolates](https://github.com/Yash-Raj-2403/Leety/tree/master/2706-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/Yash-Raj-2403/Leety/tree/master/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/Yash-Raj-2403/Leety/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yash-Raj-2403/Leety/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Yash-Raj-2403/Leety/tree/master/0605-can-place-flowers) |
+| [2706-buy-two-chocolates](https://github.com/Yash-Raj-2403/Leety/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Yash-Raj-2403/Leety/tree/master/3074-apple-redistribution-into-boxes) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Yash-Raj-2403/Leety/tree/master/3745-maximize-expression-of-three-elements) |
 ## Heap (Priority Queue)
