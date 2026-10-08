@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0575-distribute-candies](https://github.com/Yash-Raj-2403/Leety/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yash-Raj-2403/Leety/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Yash-Raj-2403/Leety/tree/master/0692-top-k-frequent-words) |
+| [0771-jewels-and-stones](https://github.com/Yash-Raj-2403/Leety/tree/master/0771-jewels-and-stones) |
 | [0930-binary-subarrays-with-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Yash-Raj-2403/Leety/tree/master/0992-subarrays-with-k-different-integers) |
 | [1122-relative-sort-array](https://github.com/Yash-Raj-2403/Leety/tree/master/1122-relative-sort-array) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/Yash-Raj-2403/Leety/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/Yash-Raj-2403/Leety/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/Yash-Raj-2403/Leety/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Yash-Raj-2403/Leety/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Yash-Raj-2403/Leety/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Yash-Raj-2403/Leety/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yash-Raj-2403/Leety/tree/master/1358-number-of-substrings-containing-all-three-characters) |
