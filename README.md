@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3683-earliest-time-to-finish-one-task](https://github.com/Yash-Raj-2403/Leety/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3701-compute-alternating-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Yash-Raj-2403/Leety/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Yash-Raj-2403/Leety/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Yash-Raj-2403/Leety/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Yash-Raj-2403/Leety/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Yash-Raj-2403/Leety/tree/master/3745-maximize-expression-of-three-elements) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3074-apple-redistribution-into-boxes](https://github.com/Yash-Raj-2403/Leety/tree/master/3074-apple-redistribution-into-boxes) |
 | [3467-transform-array-by-parity](https://github.com/Yash-Raj-2403/Leety/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Yash-Raj-2403/Leety/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Yash-Raj-2403/Leety/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Yash-Raj-2403/Leety/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Yash-Raj-2403/Leety/tree/master/3745-maximize-expression-of-three-elements) |
 ## Simulation
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0605-can-place-flowers](https://github.com/Yash-Raj-2403/Leety/tree/master/0605-can-place-flowers) |
 | [2706-buy-two-chocolates](https://github.com/Yash-Raj-2403/Leety/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Yash-Raj-2403/Leety/tree/master/3074-apple-redistribution-into-boxes) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Yash-Raj-2403/Leety/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Yash-Raj-2403/Leety/tree/master/3745-maximize-expression-of-three-elements) |
 ## Heap (Priority Queue)
 |  |
