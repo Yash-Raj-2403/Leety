@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2942-find-words-containing-character](https://github.com/Yash-Raj-2403/Leety/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yash-Raj-2403/Leety/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Yash-Raj-2403/Leety/tree/master/3074-apple-redistribution-into-boxes) |
+| [3115-maximum-prime-difference](https://github.com/Yash-Raj-2403/Leety/tree/master/3115-maximum-prime-difference) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Yash-Raj-2403/Leety/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Yash-Raj-2403/Leety/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Yash-Raj-2403/Leety/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2652-sum-multiples](https://github.com/Yash-Raj-2403/Leety/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Yash-Raj-2403/Leety/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/Yash-Raj-2403/Leety/tree/master/3099-harshad-number) |
+| [3115-maximum-prime-difference](https://github.com/Yash-Raj-2403/Leety/tree/master/3115-maximum-prime-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Yash-Raj-2403/Leety/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Yash-Raj-2403/Leety/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Yash-Raj-2403/Leety/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/Yash-Raj-2403/Leety/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/Yash-Raj-2403/Leety/tree/master/2413-smallest-even-multiple) |
 | [2614-prime-in-diagonal](https://github.com/Yash-Raj-2403/Leety/tree/master/2614-prime-in-diagonal) |
+| [3115-maximum-prime-difference](https://github.com/Yash-Raj-2403/Leety/tree/master/3115-maximum-prime-difference) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Yash-Raj-2403/Leety/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Counting
 |  |
@@ -689,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Yash-Raj-2403/Leety/tree/master/0204-count-primes) |
+| [3115-maximum-prime-difference](https://github.com/Yash-Raj-2403/Leety/tree/master/3115-maximum-prime-difference) |
 ## Sieve Theory
 |  |
 | ------- |
