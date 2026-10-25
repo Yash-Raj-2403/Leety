@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Yash-Raj-2403/Leety/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yash-Raj-2403/Leety/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Yash-Raj-2403/Leety/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Yash-Raj-2403/Leety/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Yash-Raj-2403/Leety/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Yash-Raj-2403/Leety/tree/master/0016-3sum-closest) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Yash-Raj-2403/Leety/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Yash-Raj-2403/Leety/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Yash-Raj-2403/Leety/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Yash-Raj-2403/Leety/tree/master/0018-4sum) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Yash-Raj-2403/Leety/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Yash-Raj-2403/Leety/tree/master/0605-can-place-flowers) |
 | [2706-buy-two-chocolates](https://github.com/Yash-Raj-2403/Leety/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Yash-Raj-2403/Leety/tree/master/3074-apple-redistribution-into-boxes) |
