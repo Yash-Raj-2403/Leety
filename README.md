@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yash-Raj-2403/Leety/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Yash-Raj-2403/Leety/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Yash-Raj-2403/Leety/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Yash-Raj-2403/Leety/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Yash-Raj-2403/Leety/tree/master/0191-number-of-1-bits) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Yash-Raj-2403/Leety/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Yash-Raj-2403/Leety/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/Yash-Raj-2403/Leety/tree/master/0451-sort-characters-by-frequency) |
@@ -730,6 +732,15 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Yash-Raj-2403/Leety/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Yash-Raj-2403/Leety/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Yash-Raj-2403/Leety/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Yash-Raj-2403/Leety/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Yash-Raj-2403/Leety/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
