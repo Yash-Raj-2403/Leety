@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yash-Raj-2403/Leety/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yash-Raj-2403/Leety/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Yash-Raj-2403/Leety/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0463-island-perimeter](https://github.com/Yash-Raj-2403/Leety/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Yash-Raj-2403/Leety/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/Yash-Raj-2403/Leety/tree/master/0575-distribute-candies) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/Yash-Raj-2403/Leety/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Yash-Raj-2403/Leety/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Yash-Raj-2403/Leety/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Yash-Raj-2403/Leety/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Yash-Raj-2403/Leety/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Yash-Raj-2403/Leety/tree/master/0633-sum-of-square-numbers) |
