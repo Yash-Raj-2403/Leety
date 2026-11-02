@@ -15,24 +15,39 @@ class Node {
 
 class Solution {
     public Node copyRandomList(Node head) {
-        if(head == null) return null;
-        Node dummy = new Node(-99);
-        Node tail = dummy;
-        Node temp = head;
-        Map<Node,Node> mp = new HashMap<>();
-        while(temp!=null){
+        if (head == null)
+            return null;
+        Node temp = head, nextofTemp = null;
+        Node ans = new Node(-1);
+        Node tail = ans;
+        while (temp != null) {
+            nextofTemp = temp.next;
             Node nn = new Node(temp.val);
-            tail.next = nn;
-            tail = nn;
-            mp.put(temp,nn);
+            temp.next = nn;
+            nn.next = nextofTemp;
+            temp = nextofTemp;
+        }
+
+        temp = head;
+        // while(temp!=null){
+        //     System.out.print(temp.val+" ");
+        //     temp = temp.next;
+        // }
+        while (temp != null){
+            if (temp.random != null) {
+                temp.next.random = temp.random.next;
+            }
+            temp = temp.next.next;
+        }
+
+        temp = head;
+
+        while (temp != null && temp.next != null) {
+            tail.next = temp.next; tail = tail.next;
+            if(temp.next != null)
+            temp.next = temp.next.next;
             temp = temp.next;
         }
-        Node t1 = head, t2 = dummy.next;
-        while(t1!= null){
-            t2.random = mp.get(t1.random);
-            t1 = t1.next;
-            t2 = t2.next;
-        }
-        return dummy.next;
+        return ans.next;
     }
 }
