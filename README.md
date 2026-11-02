@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/Yash-Raj-2403/Leety/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yash-Raj-2403/Leety/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Yash-Raj-2403/Leety/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/Yash-Raj-2403/Leety/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/Yash-Raj-2403/Leety/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Yash-Raj-2403/Leety/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Yash-Raj-2403/Leety/tree/master/0219-contains-duplicate-ii) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/Yash-Raj-2403/Leety/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Yash-Raj-2403/Leety/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Yash-Raj-2403/Leety/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0138-copy-list-with-random-pointer](https://github.com/Yash-Raj-2403/Leety/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/Yash-Raj-2403/Leety/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
